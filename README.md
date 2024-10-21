@@ -1,4 +1,5 @@
 # Weekend-Project-PokéNetor
+https://github.com/Swedeurs/Weekend-Project-PokeNetor/projects?query=is%3Aopen
 ![BPP](https://github.com/user-attachments/assets/d1744c47-b542-4ef1-a4b8-3e66940693ee)
 PokéNetor
 A simple web application that allows users to view Pokémon details by their number and randomly select a Pokémon to display. This project utilizes an API to fetch Pokémon data.
